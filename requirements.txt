@@ -2,9 +2,7 @@ streamlit
 groq
 langchain
 langchain-groq
-chromadb==0.4.24
 sentence-transformers
 pymupdf
 python-docx
 python-dotenv
-numpy==1.26.4
