@@ -2,19 +2,19 @@
   "resources": [
     {
       "skill": "Python",
-      "title": "Python for Everybody - Coursera",
+      "title": "Python Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/python-programming-language/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "Python",
+      "title": "Python for Everybody - Coursera (Free Audit)",
       "url": "https://www.coursera.org/specializations/python",
       "type": "course",
       "level": "beginner",
       "estimated_hours": 40
-    },
-    {
-      "skill": "Python",
-      "title": "Official Python Documentation",
-      "url": "https://docs.python.org/3/",
-      "type": "documentation",
-      "level": "all",
-      "estimated_hours": 10
     },
     {
       "skill": "Python",
@@ -25,8 +25,24 @@
       "estimated_hours": 5
     },
     {
+      "skill": "Python",
+      "title": "Python Programming - NPTEL",
+      "url": "https://nptel.ac.in/courses/106106182",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 30
+    },
+    {
       "skill": "Machine Learning",
-      "title": "Machine Learning Specialization - Andrew Ng",
+      "title": "Machine Learning - Analytics Vidhya Free Course",
+      "url": "https://courses.analyticsvidhya.com/courses/introduction-to-data-science",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning Specialization - Andrew Ng Coursera",
       "url": "https://www.coursera.org/specializations/machine-learning-introduction",
       "type": "course",
       "level": "beginner",
@@ -34,9 +50,17 @@
     },
     {
       "skill": "Machine Learning",
-      "title": "Hands-On Machine Learning with Scikit-Learn - GitHub",
-      "url": "https://github.com/ageron/handson-ml3",
-      "type": "book",
+      "title": "ML Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/machine-learning/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning - NPTEL IIT Madras",
+      "url": "https://nptel.ac.in/courses/106106139",
+      "type": "course",
       "level": "intermediate",
       "estimated_hours": 60
     },
@@ -47,6 +71,14 @@
       "type": "course",
       "level": "beginner",
       "estimated_hours": 15
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning - Scaler Topics",
+      "url": "https://www.scaler.com/topics/deep-learning/",
+      "type": "tutorial",
+      "level": "intermediate",
+      "estimated_hours": 20
     },
     {
       "skill": "Deep Learning",
@@ -65,8 +97,24 @@
       "estimated_hours": 60
     },
     {
+      "skill": "Deep Learning",
+      "title": "Deep Learning - NPTEL IIT Ropar",
+      "url": "https://nptel.ac.in/courses/106104182",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 50
+    },
+    {
       "skill": "Natural Language Processing",
-      "title": "Hugging Face NLP Course",
+      "title": "NLP Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Natural Language Processing",
+      "title": "Hugging Face NLP Course - Free",
       "url": "https://huggingface.co/learn/nlp-course",
       "type": "course",
       "level": "intermediate",
@@ -74,11 +122,35 @@
     },
     {
       "skill": "Natural Language Processing",
-      "title": "Stanford CS224N - NLP with Deep Learning",
-      "url": "https://web.stanford.edu/class/cs224n/",
+      "title": "NLP using Python - Analytics Vidhya",
+      "url": "https://courses.analyticsvidhya.com/courses/natural-language-processing-nlp",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "Natural Language Processing",
+      "title": "NLP - NPTEL IIT Bombay",
+      "url": "https://nptel.ac.in/courses/106101007",
       "type": "course",
       "level": "advanced",
-      "estimated_hours": 80
+      "estimated_hours": 60
+    },
+    {
+      "skill": "SQL",
+      "title": "SQL Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/sql-tutorial/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "SQL",
+      "title": "SQL for Data Science - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 8
     },
     {
       "skill": "SQL",
@@ -90,75 +162,107 @@
     },
     {
       "skill": "SQL",
-      "title": "Mode SQL Tutorial",
-      "url": "https://mode.com/sql-tutorial/",
+      "title": "MySQL Tutorial - Scaler Topics",
+      "url": "https://www.scaler.com/topics/mysql/",
       "type": "tutorial",
       "level": "beginner",
       "estimated_hours": 8
     },
     {
-      "skill": "SQL",
-      "title": "Advanced SQL for Data Scientists",
-      "url": "https://www.coursera.org/learn/sql-for-data-science",
+      "skill": "Data Analysis",
+      "title": "Data Analysis with Python - Analytics Vidhya",
+      "url": "https://courses.analyticsvidhya.com/courses/introduction-to-data-science",
       "type": "course",
-      "level": "intermediate",
+      "level": "beginner",
       "estimated_hours": 20
     },
     {
       "skill": "Data Analysis",
-      "title": "Pandas Documentation",
-      "url": "https://pandas.pydata.org/docs/",
-      "type": "documentation",
-      "level": "all",
+      "title": "Pandas Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/pandas-tutorial/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Data Analysis",
+      "title": "Data Analysis - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-analysis-with-python",
+      "type": "course",
+      "level": "beginner",
       "estimated_hours": 10
     },
     {
       "skill": "Data Analysis",
-      "title": "Data Analysis with Python - freeCodeCamp",
-      "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
-      "type": "course",
+      "title": "Numpy and Pandas - Scaler Topics",
+      "url": "https://www.scaler.com/topics/pandas/",
+      "type": "tutorial",
       "level": "beginner",
-      "estimated_hours": 20
+      "estimated_hours": 6
     },
     {
       "skill": "Data Visualization",
-      "title": "Matplotlib Official Tutorials",
-      "url": "https://matplotlib.org/stable/tutorials/index.html",
-      "type": "documentation",
+      "title": "Data Visualization - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/data-visualization-with-python/",
+      "type": "tutorial",
       "level": "beginner",
       "estimated_hours": 8
     },
     {
       "skill": "Data Visualization",
-      "title": "Seaborn Tutorial",
-      "url": "https://seaborn.pydata.org/tutorial.html",
-      "type": "documentation",
+      "title": "Matplotlib and Seaborn - Analytics Vidhya",
+      "url": "https://courses.analyticsvidhya.com/courses/data-visualization-using-matplotlib-and-seaborn",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 6
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Power BI Tutorial - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/power-bi-tutorial",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics for Data Science - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/statistics-for-data-science/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics - NPTEL IIT Kharagpur",
+      "url": "https://nptel.ac.in/courses/110105063",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 40
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics for Data Science - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-data-science",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Git",
+      "title": "Git Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/git-tutorial/",
+      "type": "tutorial",
       "level": "beginner",
       "estimated_hours": 5
     },
     {
-      "skill": "Docker",
-      "title": "Docker Getting Started Guide",
-      "url": "https://docs.docker.com/get-started/",
-      "type": "documentation",
-      "level": "beginner",
-      "estimated_hours": 8
-    },
-    {
-      "skill": "Docker",
-      "title": "Docker Tutorial for Beginners - TechWorld with Nana",
-      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
-      "type": "video",
-      "level": "beginner",
-      "estimated_hours": 3
-    },
-    {
       "skill": "Git",
-      "title": "Pro Git Book - Free",
-      "url": "https://git-scm.com/book/en/v2",
-      "type": "book",
-      "level": "all",
-      "estimated_hours": 15
+      "title": "Git and GitHub - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial-for-beginners",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 4
     },
     {
       "skill": "Git",
@@ -169,28 +273,20 @@
       "estimated_hours": 5
     },
     {
-      "skill": "Statistics",
-      "title": "Statistics with Python Specialization - Coursera",
-      "url": "https://www.coursera.org/specializations/statistics-with-python",
-      "type": "course",
-      "level": "intermediate",
-      "estimated_hours": 60
-    },
-    {
-      "skill": "Statistics",
-      "title": "Khan Academy Statistics",
-      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "skill": "LLM",
+      "title": "Generative AI - Google Free Course",
+      "url": "https://www.cloudskillsboost.google/journeys/118",
       "type": "course",
       "level": "beginner",
-      "estimated_hours": 20
+      "estimated_hours": 8
     },
     {
       "skill": "LLM",
-      "title": "LLM University - Cohere",
-      "url": "https://llm.university/",
-      "type": "course",
+      "title": "LLM Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/large-language-model-llm/",
+      "type": "tutorial",
       "level": "beginner",
-      "estimated_hours": 20
+      "estimated_hours": 5
     },
     {
       "skill": "LLM",
@@ -201,6 +297,22 @@
       "estimated_hours": 5
     },
     {
+      "skill": "LLM",
+      "title": "Generative AI - Analytics Vidhya Free",
+      "url": "https://courses.analyticsvidhya.com/courses/generative-ai-a-way-of-life",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "LangChain",
+      "title": "LangChain Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/langchain/",
+      "type": "tutorial",
+      "level": "intermediate",
+      "estimated_hours": 8
+    },
+    {
       "skill": "LangChain",
       "title": "LangChain Official Documentation",
       "url": "https://python.langchain.com/docs/get_started/introduction",
@@ -209,36 +321,44 @@
       "estimated_hours": 15
     },
     {
-      "skill": "LangChain",
-      "title": "LangChain Crash Course - YouTube",
-      "url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
-      "type": "video",
+      "skill": "Docker",
+      "title": "Docker Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/docker-tutorial/",
+      "type": "tutorial",
       "level": "beginner",
-      "estimated_hours": 2
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Docker",
+      "title": "Docker - Scaler Topics",
+      "url": "https://www.scaler.com/topics/docker/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 6
     },
     {
       "skill": "Computer Vision",
-      "title": "CS231n - Stanford Convolutional Neural Networks",
-      "url": "http://cs231n.stanford.edu/",
+      "title": "Computer Vision - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/computer-vision/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Computer Vision",
+      "title": "Computer Vision - NPTEL IIT Madras",
+      "url": "https://nptel.ac.in/courses/106106139",
       "type": "course",
       "level": "advanced",
-      "estimated_hours": 100
+      "estimated_hours": 60
     },
     {
-      "skill": "Computer Vision",
-      "title": "OpenCV Python Tutorial",
-      "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
-      "type": "documentation",
-      "level": "beginner",
-      "estimated_hours": 10
-    },
-    {
-      "skill": "FastAPI",
-      "title": "FastAPI Official Documentation",
-      "url": "https://fastapi.tiangolo.com/",
-      "type": "documentation",
+      "skill": "Transformers",
+      "title": "Transformers - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/transformers-in-machine-learning/",
+      "type": "tutorial",
       "level": "intermediate",
-      "estimated_hours": 10
+      "estimated_hours": 8
     },
     {
       "skill": "Transformers",
@@ -257,28 +377,68 @@
       "estimated_hours": 2
     },
     {
-      "skill": "Reinforcement Learning",
-      "title": "Spinning Up in Deep RL - OpenAI",
-      "url": "https://spinningup.openai.com/",
-      "type": "course",
-      "level": "advanced",
-      "estimated_hours": 50
-    },
-    {
       "skill": "Cloud",
-      "title": "AWS Cloud Practitioner Essentials - Free",
-      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "title": "AWS Cloud - Great Learning Free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-tutorial",
       "type": "course",
       "level": "beginner",
-      "estimated_hours": 6
+      "estimated_hours": 8
     },
     {
       "skill": "Cloud",
-      "title": "Google Cloud Skills Boost - Free Tier",
+      "title": "Google Cloud - Free Skill Boost",
       "url": "https://cloudskillsboost.google/",
       "type": "course",
       "level": "beginner",
       "estimated_hours": 10
+    },
+    {
+      "skill": "FastAPI",
+      "title": "FastAPI Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/fastapi/",
+      "type": "tutorial",
+      "level": "intermediate",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "FastAPI",
+      "title": "FastAPI Official Documentation",
+      "url": "https://fastapi.tiangolo.com/",
+      "type": "documentation",
+      "level": "intermediate",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Streamlit",
+      "title": "Streamlit Official Documentation",
+      "url": "https://docs.streamlit.io/",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 5
+    },
+    {
+      "skill": "Streamlit",
+      "title": "Streamlit Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 4
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "title": "Reinforcement Learning - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/what-is-reinforcement-learning/",
+      "type": "tutorial",
+      "level": "intermediate",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "title": "RL - NPTEL IIT Madras",
+      "url": "https://nptel.ac.in/courses/106106143",
+      "type": "course",
+      "level": "advanced",
+      "estimated_hours": 50
     }
   ]
 }
