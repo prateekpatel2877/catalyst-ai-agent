@@ -8,7 +8,7 @@
 
 * **Live Demo:** https://catalyst-ai-agent-hmb5dx8s9geistt2c4pv5b.streamlit.app/
 * **GitHub:** https://github.com/prateekpatel2877/catalyst-ai-agent
-* **Demo Video:** Coming Soon
+* **Demo Video:** https://drive.google.com/file/d/1WDQWKOs6ch5Q2MhOPNteG4rLK3vFKUe9/view?usp=sharing
 
 ---
 
