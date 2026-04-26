@@ -1,0 +1,284 @@
+{
+  "resources": [
+    {
+      "skill": "Python",
+      "title": "Python for Everybody - Coursera",
+      "url": "https://www.coursera.org/specializations/python",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 40
+    },
+    {
+      "skill": "Python",
+      "title": "Official Python Documentation",
+      "url": "https://docs.python.org/3/",
+      "type": "documentation",
+      "level": "all",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Python",
+      "title": "Python Tutorial - freeCodeCamp YouTube",
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "type": "video",
+      "level": "beginner",
+      "estimated_hours": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning Specialization - Andrew Ng",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 90
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Hands-On Machine Learning with Scikit-Learn - GitHub",
+      "url": "https://github.com/ageron/handson-ml3",
+      "type": "book",
+      "level": "intermediate",
+      "estimated_hours": 60
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "ML Crash Course - Google",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning Specialization - Andrew Ng",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 120
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "fast.ai - Practical Deep Learning",
+      "url": "https://course.fast.ai/",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 60
+    },
+    {
+      "skill": "Natural Language Processing",
+      "title": "Hugging Face NLP Course",
+      "url": "https://huggingface.co/learn/nlp-course",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 30
+    },
+    {
+      "skill": "Natural Language Processing",
+      "title": "Stanford CS224N - NLP with Deep Learning",
+      "url": "https://web.stanford.edu/class/cs224n/",
+      "type": "course",
+      "level": "advanced",
+      "estimated_hours": 80
+    },
+    {
+      "skill": "SQL",
+      "title": "SQLZoo - Interactive SQL Tutorial",
+      "url": "https://sqlzoo.net/",
+      "type": "interactive",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "SQL",
+      "title": "Mode SQL Tutorial",
+      "url": "https://mode.com/sql-tutorial/",
+      "type": "tutorial",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "SQL",
+      "title": "Advanced SQL for Data Scientists",
+      "url": "https://www.coursera.org/learn/sql-for-data-science",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "Data Analysis",
+      "title": "Pandas Documentation",
+      "url": "https://pandas.pydata.org/docs/",
+      "type": "documentation",
+      "level": "all",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "title": "Data Analysis with Python - freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Matplotlib Official Tutorials",
+      "url": "https://matplotlib.org/stable/tutorials/index.html",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Seaborn Tutorial",
+      "url": "https://seaborn.pydata.org/tutorial.html",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 5
+    },
+    {
+      "skill": "Docker",
+      "title": "Docker Getting Started Guide",
+      "url": "https://docs.docker.com/get-started/",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 8
+    },
+    {
+      "skill": "Docker",
+      "title": "Docker Tutorial for Beginners - TechWorld with Nana",
+      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "type": "video",
+      "level": "beginner",
+      "estimated_hours": 3
+    },
+    {
+      "skill": "Git",
+      "title": "Pro Git Book - Free",
+      "url": "https://git-scm.com/book/en/v2",
+      "type": "book",
+      "level": "all",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "Git",
+      "title": "Learn Git Branching - Interactive",
+      "url": "https://learngitbranching.js.org/",
+      "type": "interactive",
+      "level": "beginner",
+      "estimated_hours": 5
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics with Python Specialization - Coursera",
+      "url": "https://www.coursera.org/specializations/statistics-with-python",
+      "type": "course",
+      "level": "intermediate",
+      "estimated_hours": 60
+    },
+    {
+      "skill": "Statistics",
+      "title": "Khan Academy Statistics",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "LLM",
+      "title": "LLM University - Cohere",
+      "url": "https://llm.university/",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "LLM",
+      "title": "Prompt Engineering Guide",
+      "url": "https://www.promptingguide.ai/",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 5
+    },
+    {
+      "skill": "LangChain",
+      "title": "LangChain Official Documentation",
+      "url": "https://python.langchain.com/docs/get_started/introduction",
+      "type": "documentation",
+      "level": "intermediate",
+      "estimated_hours": 15
+    },
+    {
+      "skill": "LangChain",
+      "title": "LangChain Crash Course - YouTube",
+      "url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
+      "type": "video",
+      "level": "beginner",
+      "estimated_hours": 2
+    },
+    {
+      "skill": "Computer Vision",
+      "title": "CS231n - Stanford Convolutional Neural Networks",
+      "url": "http://cs231n.stanford.edu/",
+      "type": "course",
+      "level": "advanced",
+      "estimated_hours": 100
+    },
+    {
+      "skill": "Computer Vision",
+      "title": "OpenCV Python Tutorial",
+      "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
+      "type": "documentation",
+      "level": "beginner",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "FastAPI",
+      "title": "FastAPI Official Documentation",
+      "url": "https://fastapi.tiangolo.com/",
+      "type": "documentation",
+      "level": "intermediate",
+      "estimated_hours": 10
+    },
+    {
+      "skill": "Transformers",
+      "title": "Hugging Face Transformers Documentation",
+      "url": "https://huggingface.co/docs/transformers/index",
+      "type": "documentation",
+      "level": "intermediate",
+      "estimated_hours": 20
+    },
+    {
+      "skill": "Transformers",
+      "title": "The Illustrated Transformer - Jay Alammar",
+      "url": "https://jalammar.github.io/illustrated-transformer/",
+      "type": "article",
+      "level": "intermediate",
+      "estimated_hours": 2
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "title": "Spinning Up in Deep RL - OpenAI",
+      "url": "https://spinningup.openai.com/",
+      "type": "course",
+      "level": "advanced",
+      "estimated_hours": 50
+    },
+    {
+      "skill": "Cloud",
+      "title": "AWS Cloud Practitioner Essentials - Free",
+      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 6
+    },
+    {
+      "skill": "Cloud",
+      "title": "Google Cloud Skills Boost - Free Tier",
+      "url": "https://cloudskillsboost.google/",
+      "type": "course",
+      "level": "beginner",
+      "estimated_hours": 10
+    }
+  ]
+}
