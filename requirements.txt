@@ -2,7 +2,7 @@ streamlit
 groq
 langchain
 langchain-groq
-chromadb
+chromadb==0.4.24
 sentence-transformers
 pymupdf
 python-docx
