@@ -1,0 +1,13 @@
+We are looking for a Data Scientist with the following skills:
+
+- Python programming
+- Machine Learning (Scikit-learn, XGBoost)
+- SQL and database querying
+- Data Analysis (Pandas, NumPy, Matplotlib)
+- Natural Language Processing (NLP)
+
+Responsibilities:
+- Build and deploy ML models
+- Analyze large datasets
+- Work on NLP pipelines
+- Present insights to stakeholders
