@@ -88,6 +88,7 @@ catalyst/
 │   └── resources.json
 └── requirements.txt
 ```
+![Architecture Diagram](architecture_diagram.png)
 
 ---
 
